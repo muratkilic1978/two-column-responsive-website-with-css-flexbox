@@ -15,11 +15,11 @@ It uses the **@media** rule to include a block of CSS properties only if a certa
 ## Example
 If the browser window is 600px or smaller, the background color will be lightblue:
 
-`@media only screen and (max-width: 600px) { <br>
-  body { <br>
-    background-color: lightblue; <br>
-  } <br>
-}`
+`@media only screen and (max-width: 600px) {` <br>
+  `body {` <br>
+    `background-color: lightblue;` <br>
+  `}` <br>
+`}`
 
 # Exercise
 
